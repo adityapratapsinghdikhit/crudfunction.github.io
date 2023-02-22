@@ -1,0 +1,44 @@
+.mycard1{
+    position: relative;
+    left: 11rem;
+    width: 90rem;
+    height: 17rem;
+    border: 1px solid #d7d6d9;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: 0 4px 4px -4px rgb(0 0 0 / 60%);
+}
+.card-icon1{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.title{
+    position: relative;
+    top: -22px;
+    left: 40px;
+    width: 20rem;
+    font-size: 20px;
+}
+.subtitle{
+    position: relative;
+    top: -2rem;
+    left: 30rem;
+}
+.text{
+    position: relative;
+    top: -8rem;
+    left: 4rem;
+    width: 20rem;
+}
+.card-icon2{
+    position: relative;
+    top: -55px;
+    left: 22rem;
+    width: 10rem;
+}
+.btnn{
+    position: relative;
+    bottom: 12rem;
+    left: 76rem;
+}

@@ -1,0 +1,300 @@
+.mycard1{
+    width: 35rem;
+    height: 17rem;
+    border: 1px solid #d7d6d9;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: 0 4px 4px -4px rgb(0 0 0 / 60%);
+}
+.mycard2{
+    width: 18rem;
+    height: 17rem;
+    border: 1px solid #d7d6d9;
+    background: lightsteelblue;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0 4px 4px -4px rgb(0 0 0 / 60%);
+}
+.mycard3{
+    position: relative;
+    left: 25px;
+    width: 55rem;
+    height: 17rem;
+    border: 1px solid #d7d6d9;
+    border-radius: 5px;
+    box-shadow: 0 4px 4px -4px rgb(0 0 0 / 60%);
+}
+.mycard4{
+    position: relative;
+    left: 25px;
+    width: 55rem;
+    height: 17rem;
+    border: 1px solid #d7d6d9;
+    border-radius: 5px;
+    box-shadow: 0 4px 4px -4px rgb(0 0 0 / 60%);
+}
+.mycard5{
+    width: 53rem;
+    height: 17rem;
+    position: relative;
+    top: 0px;
+    border: 1px solid #d7d6d9;
+    border-radius: 5px;
+    box-shadow: 0 4px 4px -4px rgb(0 0 0 / 60%);
+}
+.mycard6{
+    width: 28rem;
+    height: 17rem;
+    position: relative;
+    left: 25px;
+    border: 1px solid #d7d6d9;
+    border-radius: 5px;
+    box-shadow: 0 4px 4px -4px rgb(0 0 0 / 60%);
+}
+.line1{
+    display: flex;
+}
+.line2{
+    display: flex;
+    margin-top: 25px;
+}
+.line3{
+    display: flex;
+    margin-top: 25px;
+}
+.card-icon1{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.card-icon14{
+    position: relative;
+    top: 0px;
+    left: 10px;
+}
+.card-iconb14{
+    position: relative;
+    top: -13rem;
+    left: 28rem;
+    width: 4rem;
+}
+.title{
+    position: relative;
+    top: -20px;
+    left: 40px;
+    width: 10rem;
+}
+.title4{
+    position: relative;
+    top: -31px;
+    left: 40px;
+    width: 10rem;
+}
+.titleb4{
+    position: relative;
+    top: -16rem;
+    left: 31rem;
+    width: 20rem;
+}
+.card-icon2{
+    position: relative;
+    top: -50px;
+    left: 145px;
+    width: 10rem;
+}
+.card-icon24{
+    position: relative;
+    top: -60px;
+    left: 115px;
+    width: 10rem;
+}
+.card-iconb24{
+    position: relative;
+    top: -19rem;
+    left: 43rem;
+    width: 2rem;
+}
+.card-icon3 img{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 2.4rem;
+}
+.subtitle{
+    position: relative;
+    top: -50px;
+    left: 43px;
+}
+.subtitles2{
+    position: relative;
+    top: -78px;
+    left: 26rem;
+}
+.subtitles3{
+    position: relative;
+    top: -78px;
+    left: 46rem;
+    width: 10rem;
+}
+.subtitles4{
+    position: relative;
+    top: -7.5rem;
+    left: 44rem;
+}
+.subtitle4{
+    position: relative;
+    top: -66px;
+    left: 41px;
+}
+.subtitleb4{
+    position: relative;
+    top: -19.5rem;
+    left: 31rem;
+    width: 20rem;
+}
+.text{
+    position: relative;
+    top: -25px;
+    left: 78px;
+}
+.text1{
+    position: relative;
+    top: 1rem;
+    left: 9rem;
+}
+.text2{
+    position: relative;
+    top: -18rem;
+    left: 32rem;
+    width: 15rem;
+}
+.big{
+    position: relative;
+    text-align: center;
+    font-size: 35px;
+}
+.bigsmall{
+    position: relative;
+    text-align: center;
+    top: -10px;
+}
+.bigsmall4{
+    position: relative;
+    text-align: center;
+    top: -95px;
+    left: 2rem;
+}
+.big1{
+    position: relative;
+    text-align: center;
+    top: 2rem;
+    left: 2rem;
+    font-size: 35px;
+}
+.big2{
+    position: relative;
+    text-align: center;
+    top: -17rem;
+    left: 24rem;
+    font-size: 35px;
+    width: 30rem;
+}
+.big4{
+    position: relative;
+    text-align: center;
+    top: -8rem;
+    left: 2rem;
+    font-size: 35px;
+}
+.bigb4{
+    position: relative;
+    text-align: center;
+    top: -19rem;
+    left: 22.5rem;
+    font-size: 35px;
+    width: 30rem;
+}
+.small{
+    position: relative;
+    text-align: center;
+    top: 40px;
+}
+.small4{
+    position: relative;
+    text-align: center;
+    top: -7rem;
+    left: 1.5rem;
+}
+.smallb4{
+    position: relative;
+    text-align: center;
+    top: -17rem;
+    left: 23.5rem;
+    width: 29rem;
+}
+.small2{
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+.small24{
+    position: relative;
+    text-align: center;
+    top: -8rem;
+    left: 1.5rem;
+}
+.smallb24{
+    position: relative;
+    text-align: center;
+    top: -18rem;
+    left: 22.5rem;
+    width: 30rem;
+}
+.color{
+    color: rgb(192, 54, 54);
+}
+.vl {
+    border-right: 1px solid rgb(0 0 0 / 25%);
+    height: 100px;
+    width: 273px;
+    position: relative;
+    left: 0rem;
+    top: -8rem;
+}
+.last {
+    display: flex;
+    position: relative;
+    bottom: 17rem;
+    left: 20.5rem;
+    width: 21rem;
+}
+.box{
+    border-right: 1px solid rgb(0 0 0 / 25%);
+    height: 140px;
+    width: 273px;
+    position: relative;
+    left: 0rem;
+    top:1rem;
+}
+.slct{
+    border: 1px solid #d7d6d9;
+    border-radius: 5px;
+}
+#lastli{
+    position: relative;
+    top: 13rem;
+    right: 27rem;
+}
+#wlcm{
+    font-size: 25px;
+    font-weight: 600;
+}
+#prsn{
+    position: relative;
+    font-size: 30px;
+}
+.pop{
+    top: -46.625px;
+    left: 16px;
+    display: block;
+}
